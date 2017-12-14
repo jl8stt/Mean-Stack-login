@@ -1,0 +1,23 @@
+{
+  "name": "mean-login",
+  "version": "1.0.0",
+  "description": "mean-stack application for login",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jl8stt/Mean-Stack-login.git"
+  },
+  "author": "jianhua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jl8stt/Mean-Stack-login/issues"
+  },
+  "homepage": "https://github.com/jl8stt/Mean-Stack-login#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  }
+}
